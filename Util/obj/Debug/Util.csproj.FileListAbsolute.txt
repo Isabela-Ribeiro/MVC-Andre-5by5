@@ -1,0 +1,6 @@
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Util\bin\Debug\Util.dll
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Util\bin\Debug\Util.pdb
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Util\obj\Debug\Util.csprojAssemblyReference.cache
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Util\obj\Debug\Util.dll
+C:\Users\Isabela Ribeiro\source\repos\Restaurante\Util\obj\Debug\Util.pdb
